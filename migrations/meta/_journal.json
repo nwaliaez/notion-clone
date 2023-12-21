@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701934429098,
+      "tag": "0000_wakeful_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701937546051,
+      "tag": "0001_faulty_green_goblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701938327027,
+      "tag": "0002_unknown_boomerang",
+      "breakpoints": true
+    }
+  ]
+}
